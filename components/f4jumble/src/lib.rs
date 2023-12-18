@@ -12,7 +12,7 @@
 //! [Base64]: https://en.wikipedia.org/wiki/Base64
 //! [Bech32]: https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki#Bech32
 //!
-//! The function F4Jumble (and its inverse function, F4Jumble⁻¹) are length-preserving
+//! The function F4Jumble (and its inverse function, F4Jumble⁻¹) is length-preserving
 //! transformations can be used to trivially introduce cascading behaviour to existing
 //! encodings:
 //! - Prepare the raw `message` bytes as usual.
